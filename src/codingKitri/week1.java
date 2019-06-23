@@ -18,7 +18,6 @@ public class week1 {
 			System.out.println(-1);
 		}		
 	}
-	
 	public static void main(String[] args) {
 		value(2,2,3,4);
 	}
